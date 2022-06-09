@@ -3,7 +3,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-
+/*la funzione riceve la dimensione di un array e successivamente la lista di interi contenuta.
+	Restituisce l'array senza gli elementi minori o uguali alla media*/
 
 //**********************************FUNZIONI A DISPOSIZIONE*********
 
